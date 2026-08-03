@@ -34,6 +34,15 @@ python -m pytest
 python benchmarks/benchmark.py
 ```
 
+## Flujo de trabajo recomendado
+
+Para mantener el repositorio consistente durante el curso, conviene seguir este orden:
+
+1. Crear o actualizar el contenido de cada carpeta según la actividad.
+2. Documentar el procedimiento y los resultados en el informe correspondiente.
+3. Ejecutar las pruebas o benchmarks necesarios.
+4. Registrar cada avance con un commit específico y sincronizarlo con GitHub.
+
 ## Seguimiento del curso
 
 Este repositorio también permite mantener un historial claro del trabajo realizado mediante commits incrementales, de modo que cada avance del proyecto quede documentado con precisión.
